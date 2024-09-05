@@ -29,7 +29,6 @@ print(r" | $$____/  \______/ |__/         \___/ |_______/  ")
 print(r" | $$                                              ")
 print(r" | $$                                              ")
 print(r" |__/                                              ")
-print(r"            »»»Devoloper By White_Devil«««         ")
 print()
 # Function to scan for open ports on the target
 def scan_open_ports(target, ports_to_check):
