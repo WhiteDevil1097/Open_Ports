@@ -37,8 +37,9 @@
 <br>
 > command in your terminal:
     ```python
-    >>> pip install -r requirements.txt #for windows
-    >>> pip3 install -r requirements.txt #for macos and linux
+ >>> pip install -r requirements.txt.
+    >>>#for windows<br>
+    >>> pip3 install -r requirements.txt #for macos and linux.
     ```
     Author:White_Devil
   Channel:Hacker_Devill Subcribe 
