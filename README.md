@@ -11,13 +11,13 @@
 <br>
 
 
-- AnonySharesv2.0 Free Version 
+- Open-Ports Free Version 
 
-* `Upload files quickly within a secs.`
+* `Find The Terget Loop Hole.`
 
 * `Supports newest Android also.`
 
-* `Instant upload or chose a delay.`
+* `Get any web scrape.`
 
 * `Working with all Operators/Carriers.`
 
