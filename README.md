@@ -34,6 +34,7 @@
 > `before update works only india.`
 
 > `Apis and more threads.`
+<br>
 > command in your terminal:
     ```python
     >>> pip install -r requirements.txt #for windows
